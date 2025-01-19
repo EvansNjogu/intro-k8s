@@ -38,8 +38,8 @@ and will be able to begin testing the new cloud native pattern to begin the clou
 - Chapter 1. Container Orchestration [✅]
 - Chapter 2. Kubernetes [✅]
 - Chapter 3. Kubernetes Architecture - Overview [✅]
-- Chapter 4. Installing Kubernetes
-- Chapter 5. Setting Up a Single-Node Kubernetes Cluster with Minikube
+- Chapter 4. Installing Kubernetes [✅]
+- Chapter 5. Setting Up a Single-Node Kubernetes Cluster with Minikube [✅]
 - Chapter 6. Accessing Minikube
 - Chapter 7. Kubernetes Building Blocks
 - Chapter 8. Authentication, Authorization, and Admission Control
